@@ -58,6 +58,7 @@ end
 
 Testing Code:
 
+
 ```js
 console.log(drinkWater(12))
 // => "Man I sure am thirsty"
